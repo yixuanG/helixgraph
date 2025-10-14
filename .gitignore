@@ -1,0 +1,34 @@
+# Environment variables
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Generated files
+notebooks/graph.json
+notebooks/graph_3d.html
+
+# Sensitive files
+Neo4j-*.txt
+*.credentials
+
+# Development files (not for PR)
+TESTING.md
+commandlines.ipynb
+PRE_COMMIT_CHECKLIST.md
