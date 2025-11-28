@@ -21,6 +21,7 @@ __pycache__/
 nlp/models/ner_model/model-best/transformer/model
 nlp/models/ner_model/model-best/ner/model
 nlp/models/ner_model/model-last/
+nlp/models/ner_model.zip
 
 # data (optional: if large)
 data/
