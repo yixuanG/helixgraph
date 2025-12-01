@@ -1,5 +1,90 @@
-employee_id,product_sku,expertise_level,years_experience
-EMP-10012,APP_ADIDAS,Primary Owner,6
-EMP-10013,APP_ADIDAS,Primary Owner,2
-EMP-10019,APP_ADIDAS,Primary Owner,10
-EMP-10020,APP_ADIDAS,Primary Owner,9
+employee_id,hero_product,expertise_level,years_experience
+EMP-10001,Brand_Film_General,Primary Owner,6
+EMP-10001,Brand_Film_Holiday,Supporting,5
+EMP-10001,Samba OG,Specialist,8
+EMP-10001,Samba OG FW,Specialist,10
+EMP-10001,Samba OG Gift Pack,Specialist,7
+EMP-10001,Gazelle FW,Specialist,13
+EMP-10001,Gazelle OG,Specialist,11
+EMP-10001,Multi_Products,Supporting,7
+EMP-10005,Brand_Film_General,Primary Owner,7
+EMP-10005,Brand_Film_Holiday,Specialist,8
+EMP-10005,Samba OG,Supporting,9
+EMP-10005,Samba OG FW,Specialist,11
+EMP-10005,Samba OG Gift Pack,Specialist,15
+EMP-10005,Gazelle FW,Specialist,13
+EMP-10005,Gazelle OG,Supporting,6
+EMP-10006,Brand_Film_General,Primary Owner,5
+EMP-10006,Brand_Film_Holiday,Supporting,6
+EMP-10010,Multi_Products,Primary Owner,11
+EMP-10010,Adizero SL,Specialist,5
+EMP-10010,Supernova FW,Supporting,5
+EMP-10010,Supernova 3,Specialist,12
+EMP-10010,Supernova Rise,Supporting,7
+EMP-10010,Ultraboost Light,Specialist,11
+EMP-10010,Ultraboost 25,Specialist,14
+EMP-10010,Samba OG,Specialist,8
+EMP-10010,Samba OG FW,Specialist,14
+EMP-10010,Samba OG Gift Pack,Supporting,7
+EMP-10010,Gazelle FW,Supporting,7
+EMP-10010,Gazelle OG,Specialist,10
+EMP-10011,Multi_Products,Primary Owner,12
+EMP-10012,Adizero SL,Primary Owner,13
+EMP-10012,Supernova FW,Supporting,9
+EMP-10012,Supernova 3,Specialist,6
+EMP-10012,Supernova Rise,Supporting,9
+EMP-10012,Ultraboost Light,Specialist,8
+EMP-10012,Ultraboost 25,Specialist,6
+EMP-10012,Predator 2025,Supporting,5
+EMP-10012,Predator Elite,Supporting,12
+EMP-10012,Samba OG,Supporting,9
+EMP-10012,Samba OG FW,Specialist,5
+EMP-10012,Samba OG Gift Pack,Supporting,13
+EMP-10012,Gazelle FW,Specialist,9
+EMP-10012,Gazelle OG,Supporting,15
+EMP-10012,Terrex Trailmaker,Supporting,12
+EMP-10012,Terrex Swift,Supporting,9
+EMP-10012,Terrex Agravic,Specialist,8
+EMP-10012,Harden Vol.9,Supporting,11
+EMP-10012,ZG23 Golf Shoes,Supporting,7
+EMP-10013,Adizero SL,Primary Owner,12
+EMP-10013,Supernova FW,Specialist,15
+EMP-10013,Supernova 3,Supporting,11
+EMP-10013,Supernova Rise,Supporting,9
+EMP-10013,Ultraboost Light,Specialist,9
+EMP-10013,Ultraboost 25,Specialist,11
+EMP-10013,Predator 2025,Specialist,8
+EMP-10013,Predator Elite,Supporting,8
+EMP-10013,Samba OG,Specialist,13
+EMP-10013,Samba OG FW,Supporting,15
+EMP-10013,Samba OG Gift Pack,Specialist,8
+EMP-10013,Gazelle FW,Specialist,8
+EMP-10013,Gazelle OG,Specialist,14
+EMP-10013,Brand_Film_General,Supporting,5
+EMP-10013,Brand_Film_Holiday,Supporting,14
+EMP-10017,Brand_Film_General,Primary Owner,6
+EMP-10017,Brand_Film_Holiday,Specialist,6
+EMP-10017,Multi_Products,Specialist,6
+EMP-10018,Brand_Film_General,Primary Owner,6
+EMP-10018,Brand_Film_Holiday,Specialist,8
+EMP-10018,Multi_Products,Specialist,5
+EMP-10019,Adizero SL,Primary Owner,6
+EMP-10019,Supernova FW,Specialist,8
+EMP-10019,Supernova 3,Specialist,5
+EMP-10019,Supernova Rise,Specialist,9
+EMP-10019,Ultraboost Light,Specialist,8
+EMP-10019,Ultraboost 25,Specialist,3
+EMP-10020,Predator 2025,Primary Owner,7
+EMP-10020,Predator Elite,Supporting,8
+EMP-10024,Multi_Products,Primary Owner,6
+EMP-10024,Adizero SL,Specialist,9
+EMP-10024,Supernova FW,Supporting,7
+EMP-10024,Supernova 3,Supporting,5
+EMP-10024,Supernova Rise,Supporting,8
+EMP-10024,Ultraboost Light,Supporting,8
+EMP-10024,Ultraboost 25,Specialist,7
+EMP-10024,Samba OG,Specialist,5
+EMP-10024,Samba OG FW,Supporting,6
+EMP-10024,Samba OG Gift Pack,Supporting,3
+EMP-10024,Gazelle FW,Specialist,6
+EMP-10024,Gazelle OG,Supporting,9
