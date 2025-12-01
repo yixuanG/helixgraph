@@ -1,0 +1,70 @@
+{
+  "id": "APP_ADIDAS",
+  "name": "Adidas",
+  "aliases": ["Adidas AG", "ADIDAS", "adidas"],
+  "category": "Apparel",
+  "market": "global",
+
+  "product_lines": [
+    {
+      "name": "Running",
+      "products": [
+        "Adizero SL",
+        "Supernova 3",
+        "Supernova FW",
+        "Supernova Rise",
+        "Ultraboost 25",
+        "Ultraboost Light"
+      ]
+    },
+    {
+      "name": "Originals",
+      "products": [
+        "Gazelle FW",
+        "Gazelle OG",
+        "Samba OG",
+        "Samba OG FW",
+        "Samba OG Gift Pack"
+      ]
+    },
+    {
+      "name": "Football",
+      "products": [
+        "Predator 2025",
+        "Predator Elite"
+      ]
+    },
+    {
+      "name": "Basketball",
+      "products": [
+        "Harden Vol.9"
+      ]
+    },
+    {
+      "name": "Outdoor",
+      "products": [
+        "Terrex Agravic",
+        "Terrex Swift",
+        "Terrex Trailmaker"
+      ]
+    },
+    {
+      "name": "Cycling",
+      "products": [
+        "The Road Cycling Shoe"
+      ]
+    },
+    {
+      "name": "Golf",
+      "products": [
+        "ZG23 Golf Shoes"
+      ]
+    },
+    {
+      "name": "General",
+      "products": [
+        "General"
+      ]
+    }
+  ]
+}
