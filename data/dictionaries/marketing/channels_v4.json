@@ -1,0 +1,104 @@
+[
+  {
+    "id": "CH_01",
+    "name": "SOCIAL",
+    "media_platform": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "Snapchat",
+      "Pinterest",
+      "Twitter",
+      "LinkedIn",
+      "Meta"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_02",
+    "name": "SEM",
+    "media_platform": [
+      "Google",
+      "Microsoft Ads",
+      "Yahoo Search"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_03",
+    "name": "DISPLAY",
+    "media_platform": [
+      "Google Display Network",
+      "DV360",
+      "Criteo",
+      "MediaMath",
+      "Xandr",
+      "Yahoo DSP"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_04",
+    "name": "VIDEO",
+    "media_platform": [
+      "YouTube",
+      "CTV",
+      "OTT Platforms",
+      "RTL Video",
+      "ProSieben Video"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_05",
+    "name": "EMAIL",
+    "media_platform": [
+      "Email"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_06",
+    "name": "RETAIL_MEDIA",
+    "media_platform": [
+      "Amazon Ads",
+      "Zalando Media",
+      "OTTO Media"
+    ],
+    "type": "Digital"
+  },
+  {
+    "id": "CH_07",
+    "name": "OOH",
+    "media_platform": [
+      "JCDecaux",
+      "Stroeer",
+      "Billboards",
+      "Transit Ads",
+      "Street Furniture"
+    ],
+    "type": "Offline"
+  },
+  {
+    "id": "CH_08",
+    "name": "DOOH",
+    "media_platform": [
+      "Digital Billboards",
+      "Mall Screens",
+      "Transit Screens"
+    ],
+    "type": "Offline"
+  },
+  {
+    "id": "CH_09",
+    "name": "TV",
+    "media_platform": [
+      "ProSieben",
+      "RTL",
+      "RTL2",
+      "Sat.1",
+      "SPORT1"
+    ],
+    "type": "Offline"
+  }
+]
