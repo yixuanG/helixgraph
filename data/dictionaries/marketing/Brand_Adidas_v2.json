@@ -1,0 +1,252 @@
+[
+    {
+        "product_id": "ADI-P-0001",
+        "product_name": "Adizero SL",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 1,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0002",
+        "product_name": "Ultraboost Light",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 2,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0003",
+        "product_name": "Cushioned Crew Socks 3-Pack",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 2,
+        "category_level_1": "Apparel",
+        "category_level_2_id": 3,
+        "category_level_2": "Socks"
+    },
+    {
+        "product_id": "ADI-P-0004",
+        "product_name": "Essentials Backpack",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 3,
+        "category_level_1": "Accessories",
+        "category_level_2_id": 4,
+        "category_level_2": "Bags"
+    },
+    {
+        "product_id": "ADI-P-0005",
+        "product_name": "Stan Smith",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0006",
+        "product_name": "AEROREADY Tee",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 2,
+        "category_level_1": "Apparel",
+        "category_level_2_id": 6,
+        "category_level_2": "Tops"
+    },
+    {
+        "product_id": "ADI-P-0007",
+        "product_name": "Samba OG",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0008",
+        "product_name": "Tiro 23 Club Pants",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 2,
+        "category_level_1": "Apparel",
+        "category_level_2_id": 7,
+        "category_level_2": "Pants"
+    },
+    {
+        "product_id": "ADI-P-0009",
+        "product_name": "Forum Low",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0010",
+        "product_name": "Future Icons Tee",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 2,
+        "category_level_1": "Apparel",
+        "category_level_2_id": 6,
+        "category_level_2": "Tops"
+    },
+    {
+        "product_id": "ADI-P-0011",
+        "product_name": "Supernova 3",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 1,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0012",
+        "product_name": "Supernova Rise",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 1,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0013",
+        "product_name": "Supernova FW",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 1,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0014",
+        "product_name": "Ultraboost 25",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 1,
+        "category_level_2": "Running"
+    },
+    {
+        "product_id": "ADI-P-0015",
+        "product_name": "Samba OG FW",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0016",
+        "product_name": "Gazelle OG",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0017",
+        "product_name": "Gazelle FW",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 5,
+        "category_level_2": "Originals"
+    },
+    {
+        "product_id": "ADI-P-0018",
+        "product_name": "Predator 2025",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 6,
+        "category_level_2": "Football"
+    },
+    {
+        "product_id": "ADI-P-0019",
+        "product_name": "Predator Elite",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 6,
+        "category_level_2": "Football"
+    },
+    {
+        "product_id": "ADI-P-0020",
+        "product_name": "Terrex Trailmaker",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 7,
+        "category_level_2": "Outdoor"
+    },
+    {
+        "product_id": "ADI-P-0021",
+        "product_name": "Terrex Swift",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 7,
+        "category_level_2": "Outdoor"
+    },
+    {
+        "product_id": "ADI-P-0022",
+        "product_name": "Terrex Agravic",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 7,
+        "category_level_2": "Outdoor"
+    },
+    {
+        "product_id": "ADI-P-0023",
+        "product_name": "The Road Cycling Shoe",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 7,
+        "category_level_2": "Outdoor"
+    },
+    {
+        "product_id": "ADI-P-0024",
+        "product_name": "Harden Vol.9",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 8,
+        "category_level_2": "Basketball"
+    },
+    {
+        "product_id": "ADI-P-0025",
+        "product_name": "ZG23 Golf Shoes",
+        "brand_id": "BR-0001",
+        "brand_name": "Adidas",
+        "category_level_1_id": 1,
+        "category_level_1": "Footwear",
+        "category_level_2_id": 9,
+        "category_level_2": "Golf"
+    }
+]
