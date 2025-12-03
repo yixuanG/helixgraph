@@ -1,0 +1,26 @@
+employee_id,first_name,last_name,email,job_title,department,level,reports_to,location,hiring_date,signing_authority_eur,cost_center
+EMP-10000,Tobias,Wolf,tobias.wolf@adidas.com,Chief Marketing Officer (CMO),Marketing Leadership,Executive,,"Herzogenaurach, Germany",2021-07-22,5000000,MKT-000
+EMP-10001,Katharina,Werner,katharina.werner@adidas.com,VP Brand Marketing,Brand Marketing,Senior,EMP-10000,"Herzogenaurach, Germany",2008-06-28,2000000,MKT-100
+EMP-10002,Daniel,Neumann,daniel.neumann@adidas.com,VP Performance Marketing,Performance Marketing,Senior,EMP-10000,"Herzogenaurach, Germany",2008-07-23,2000000,MKT-200
+EMP-10003,Melanie,Werner,melanie.werner@adidas.com,VP Digital Marketing,Digital Marketing,Senior,EMP-10000,"Herzogenaurach, Germany",2009-03-05,2000000,MKT-300
+EMP-10004,Katharina,Schwarz,katharina.schwarz@adidas.com,VP Trade Marketing,Trade Marketing,Senior,EMP-10000,"Herzogenaurach, Germany",2013-11-19,1500000,MKT-400
+EMP-10005,Lukas,Lehmann,lukas.lehmann@adidas.com,Senior Director Brand Strategy,Brand Marketing,Senior,EMP-10001,"Herzogenaurach, Germany",2010-04-05,750000,MKT-110
+EMP-10006,Wolfgang,Hartmann,wolfgang.hartmann@adidas.com,Senior Director Creative,Brand Marketing,Senior,EMP-10001,"Herzogenaurach, Germany",2015-12-01,750000,MKT-120
+EMP-10007,Anna,Herrmann,anna.herrmann@adidas.com,Senior Director Paid Media,Performance Marketing,Senior,EMP-10002,"Herzogenaurach, Germany",2018-07-20,1000000,MKT-210
+EMP-10008,Sebastian,Meier,sebastian.meier@adidas.com,Senior Director Marketing Analytics,Performance Marketing,Senior,EMP-10002,"Herzogenaurach, Germany",2013-03-18,500000,MKT-220
+EMP-10009,Petra,Lehmann,petra.lehmann@adidas.com,Senior Director Social Media,Digital Marketing,Senior,EMP-10003,"Herzogenaurach, Germany",2020-01-15,800000,MKT-310
+EMP-10010,Nina,Meyer,nina.meyer@adidas.com,Senior Director E-Commerce Marketing,Digital Marketing,Senior,EMP-10003,"Herzogenaurach, Germany",2012-10-08,800000,MKT-320
+EMP-10011,Claudia,Köhler,claudia.köhler@adidas.com,Senior Director Retail Marketing,Trade Marketing,Senior,EMP-10004,"Herzogenaurach, Germany",2009-04-07,600000,MKT-410
+EMP-10012,Matthias,Becker,matthias.becker@adidas.com,Director Product Marketing - Footwear,Brand Marketing,Senior,EMP-10005,"Herzogenaurach, Germany",2008-10-12,400000,MKT-111
+EMP-10013,Andrea,Schmitt,andrea.schmitt@adidas.com,Director Product Marketing - Apparel,Brand Marketing,Senior,EMP-10005,"Herzogenaurach, Germany",2010-10-30,400000,MKT-112
+EMP-10014,Stefanie,Koch,stefanie.koch@adidas.com,Director Influencer Marketing,Digital Marketing,Senior,EMP-10009,"Herzogenaurach, Germany",2016-11-06,500000,MKT-311
+EMP-10015,Laura,Schwarz,laura.schwarz@adidas.com,Director Search Marketing,Performance Marketing,Senior,EMP-10007,"Herzogenaurach, Germany",2019-09-07,600000,MKT-211
+EMP-10016,Bernd,Zimmermann,bernd.zimmermann@adidas.com,Director Display & Programmatic,Performance Marketing,Senior,EMP-10007,"Herzogenaurach, Germany",2019-03-10,500000,MKT-212
+EMP-10017,Lukas,Kaiser,lukas.kaiser@adidas.com,Senior Campaign Manager,Brand Marketing,Mid-level,EMP-10006,"Herzogenaurach, Germany",2015-04-28,200000,MKT-121
+EMP-10018,Lukas,Koch,lukas.koch@adidas.com,Senior Campaign Manager,Brand Marketing,Mid-level,EMP-10006,"Herzogenaurach, Germany",2006-01-14,200000,MKT-121
+EMP-10019,Katrin,Fuchs,katrin.fuchs@adidas.com,Senior Marketing Manager - Running,Brand Marketing,Mid-level,EMP-10012,"Herzogenaurach, Germany",2013-11-16,150000,MKT-111
+EMP-10020,Barbara,Köhler,barbara.köhler@adidas.com,Senior Marketing Manager - Football,Brand Marketing,Mid-level,EMP-10012,"Herzogenaurach, Germany",2020-06-06,150000,MKT-111
+EMP-10021,Jan,Köhler,jan.köhler@adidas.com,Senior Paid Social Manager,Performance Marketing,Mid-level,EMP-10007,"Herzogenaurach, Germany",2014-06-20,250000,MKT-210
+EMP-10022,Katharina,Meier,katharina.meier@adidas.com,Senior Content Manager,Digital Marketing,Mid-level,EMP-10009,"Herzogenaurach, Germany",2009-05-28,100000,MKT-310
+EMP-10023,Sebastian,Schröder,sebastian.schröder@adidas.com,Senior Marketing Analytics Manager,Performance Marketing,Mid-level,EMP-10008,"Herzogenaurach, Germany",2013-11-10,75000,MKT-220
+EMP-10024,Christina,Maier,christina.maier@adidas.com,Senior E-Commerce Manager,Digital Marketing,Mid-level,EMP-10010,"Herzogenaurach, Germany",2023-07-28,150000,MKT-320
