@@ -1,0 +1,126 @@
+[
+  {
+    "code": "primary_owner",
+    "level": 1,
+    "name": "Primary Owner",
+    "description": "Primary subject matter expert with full ownership and decision-making authority",
+    "requirements": [
+      "Extensive experience (typically 8+ years)",
+      "Strategic decision-making capability",
+      "Team leadership and mentoring",
+      "Cross-functional coordination"
+    ],
+    "responsibilities": [
+      "Strategy development",
+      "Budget ownership",
+      "Stakeholder management",
+      "Performance accountability"
+    ]
+  },
+  {
+    "code": "expert",
+    "level": 2,
+    "name": "Expert",
+    "description": "Advanced practitioner with deep expertise and ability to lead complex initiatives",
+    "requirements": [
+      "Significant experience (typically 5-8 years)",
+      "Proven track record of success",
+      "Professional certifications (preferred)",
+      "Thought leadership capability"
+    ],
+    "responsibilities": [
+      "Lead complex projects",
+      "Mentor team members",
+      "Best practice development",
+      "Innovation and optimization"
+    ]
+  },
+  {
+    "code": "specialist",
+    "level": 3,
+    "name": "Specialist",
+    "description": "Proficient practitioner with focused expertise in specific area",
+    "requirements": [
+      "Solid experience (typically 3-5 years)",
+      "Domain-specific knowledge",
+      "Consistent performance",
+      "Collaboration skills"
+    ],
+    "responsibilities": [
+      "Execute initiatives independently",
+      "Provide expert input",
+      "Quality assurance",
+      "Knowledge sharing"
+    ]
+  },
+  {
+    "code": "advanced",
+    "level": 4,
+    "name": "Advanced",
+    "description": "Competent practitioner with working knowledge and growing expertise",
+    "requirements": [
+      "Moderate experience (typically 2-4 years)",
+      "Understanding of best practices",
+      "Ability to work independently",
+      "Continuous learning mindset"
+    ],
+    "responsibilities": [
+      "Execute standard initiatives",
+      "Support complex projects",
+      "Process improvement",
+      "Skill development"
+    ]
+  },
+  {
+    "code": "intermediate",
+    "level": 5,
+    "name": "Intermediate",
+    "description": "Developing practitioner with foundational knowledge and guided execution",
+    "requirements": [
+      "Basic experience (typically 1-2 years)",
+      "Core competency understanding",
+      "Willingness to learn",
+      "Team collaboration"
+    ],
+    "responsibilities": [
+      "Execute defined tasks",
+      "Learn from seniors",
+      "Document processes",
+      "Contribute to team goals"
+    ]
+  },
+  {
+    "code": "supporting",
+    "level": 6,
+    "name": "Supporting",
+    "description": "Contributing member with awareness and ability to assist",
+    "requirements": [
+      "Limited experience (typically <1 year)",
+      "Basic understanding",
+      "Eagerness to contribute",
+      "Adaptability"
+    ],
+    "responsibilities": [
+      "Assist on projects",
+      "Execute simple tasks",
+      "Gain experience",
+      "Build foundational skills"
+    ]
+  },
+  {
+    "code": "beginner",
+    "level": 7,
+    "name": "Beginner",
+    "description": "New to the domain with minimal experience",
+    "requirements": [
+      "Little to no experience",
+      "Willingness to learn",
+      "Basic knowledge acquisition"
+    ],
+    "responsibilities": [
+      "Shadow experienced team members",
+      "Complete training",
+      "Perform basic tasks under supervision"
+    ]
+  }
+]

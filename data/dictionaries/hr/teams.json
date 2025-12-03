@@ -1,0 +1,232 @@
+[
+  {
+    "team_id": "MKT-000",
+    "team_code": "Marketing Leadership",
+    "team_name": "Marketing Leadership",
+    "department": "Marketing",
+    "description": "Executive leadership team responsible for overall marketing strategy and direction",
+    "type": "Leadership",
+    "parent_team": null,
+    "team_lead_role": "Chief Marketing Officer (CMO)",
+    "responsibilities": [
+      "Overall marketing strategy",
+      "Budget allocation across teams",
+      "Brand positioning and vision",
+      "Cross-functional alignment"
+    ],
+    "key_metrics": [
+      "Overall marketing ROI",
+      "Brand health metrics",
+      "Market share",
+      "Customer acquisition cost"
+    ]
+  },
+  {
+    "team_id": "MKT-100",
+    "team_code": "Brand Marketing",
+    "team_name": "Brand Marketing",
+    "department": "Marketing",
+    "description": "Responsible for brand strategy, positioning, and brand-building campaigns",
+    "type": "Core Function",
+    "parent_team": "Marketing Leadership",
+    "team_lead_role": "VP Brand Marketing",
+    "responsibilities": [
+      "Brand strategy development",
+      "Brand positioning and messaging",
+      "Brand awareness campaigns",
+      "Creative direction"
+    ],
+    "key_metrics": [
+      "Brand awareness",
+      "Brand perception",
+      "Share of voice",
+      "Campaign reach"
+    ],
+    "sub_teams": [
+      "Brand Offline"
+    ]
+  },
+  {
+    "team_id": "MKT-110",
+    "team_code": "Brand Offline",
+    "team_name": "Brand Offline",
+    "department": "Marketing",
+    "description": "Executes offline brand campaigns including TV, OOH, and DOOH",
+    "type": "Execution",
+    "parent_team": "Brand Marketing",
+    "team_lead_role": "Creative Lead",
+    "responsibilities": [
+      "TV campaign execution",
+      "OOH/DOOH campaign management",
+      "Offline media planning and buying",
+      "Traditional brand activations"
+    ],
+    "key_metrics": [
+      "Reach",
+      "GRP",
+      "Frequency",
+      "Brand lift"
+    ],
+    "channels": [
+      "TV",
+      "OOH",
+      "DOOH"
+    ]
+  },
+  {
+    "team_id": "MKT-200",
+    "team_code": "Performance Marketing",
+    "team_name": "Performance Marketing",
+    "department": "Marketing",
+    "description": "Drives measurable performance and conversions through paid media",
+    "type": "Core Function",
+    "parent_team": "Marketing Leadership",
+    "team_lead_role": "VP Performance Marketing",
+    "responsibilities": [
+      "Performance campaign strategy",
+      "Paid media optimization",
+      "Conversion rate optimization",
+      "Marketing analytics"
+    ],
+    "key_metrics": [
+      "ROAS",
+      "CPA",
+      "Conversion rate",
+      "Revenue"
+    ],
+    "sub_teams": [
+      "Digital Performance"
+    ]
+  },
+  {
+    "team_id": "MKT-210",
+    "team_code": "Digital Performance",
+    "team_name": "Digital Performance",
+    "department": "Marketing",
+    "description": "Executes digital performance campaigns focused on conversions and revenue",
+    "type": "Execution",
+    "parent_team": "Performance Marketing",
+    "team_lead_role": "Senior Director Paid Media",
+    "responsibilities": [
+      "SEM campaign management",
+      "Display advertising",
+      "Programmatic buying",
+      "Performance analytics"
+    ],
+    "key_metrics": [
+      "ROAS",
+      "Conversions",
+      "CTR",
+      "CPC"
+    ],
+    "channels": [
+      "SEM",
+      "DISPLAY",
+      "SOCIAL"
+    ]
+  },
+  {
+    "team_id": "MKT-300",
+    "team_code": "Digital Marketing",
+    "team_name": "Digital Marketing",
+    "department": "Marketing",
+    "description": "Manages digital brand presence and engagement",
+    "type": "Core Function",
+    "parent_team": "Marketing Leadership",
+    "team_lead_role": "VP Digital Marketing",
+    "responsibilities": [
+      "Social media strategy",
+      "Digital content creation",
+      "Influencer partnerships",
+      "E-commerce marketing"
+    ],
+    "key_metrics": [
+      "Engagement rate",
+      "Follower growth",
+      "Content performance",
+      "Social commerce revenue"
+    ],
+    "sub_teams": [
+      "Digital Brand"
+    ]
+  },
+  {
+    "team_id": "MKT-310",
+    "team_code": "Digital Brand",
+    "team_name": "Digital Brand",
+    "department": "Marketing",
+    "description": "Executes digital brand campaigns and social media initiatives",
+    "type": "Execution",
+    "parent_team": "Digital Marketing",
+    "team_lead_role": "Social Media Lead",
+    "responsibilities": [
+      "Social media campaign execution",
+      "Content creation and publishing",
+      "Community management",
+      "Influencer campaign management"
+    ],
+    "key_metrics": [
+      "Impressions",
+      "Engagement",
+      "Views",
+      "VTR"
+    ],
+    "channels": [
+      "SOCIAL",
+      "VIDEO",
+      "DISPLAY"
+    ]
+  },
+  {
+    "team_id": "MKT-400",
+    "team_code": "Trade Marketing",
+    "team_name": "Trade Marketing",
+    "department": "Marketing",
+    "description": "Manages retail partnerships and trade marketing initiatives",
+    "type": "Core Function",
+    "parent_team": "Marketing Leadership",
+    "team_lead_role": "VP Trade Marketing",
+    "responsibilities": [
+      "Retail partner relationships",
+      "Trade promotions",
+      "Point-of-sale marketing",
+      "Channel marketing"
+    ],
+    "key_metrics": [
+      "Retail sales",
+      "Distribution coverage",
+      "Trade promotion ROI",
+      "Partner satisfaction"
+    ],
+    "sub_teams": [
+      "Retail Marketing"
+    ]
+  },
+  {
+    "team_id": "MKT-410",
+    "team_code": "Retail Marketing",
+    "team_name": "Retail Marketing",
+    "department": "Marketing",
+    "description": "Executes retail and e-commerce marketing campaigns",
+    "type": "Execution",
+    "parent_team": "Trade Marketing",
+    "team_lead_role": "Senior Director Retail Marketing",
+    "responsibilities": [
+      "Retail campaign execution",
+      "E-commerce marketing",
+      "Email marketing",
+      "Promotional campaigns"
+    ],
+    "key_metrics": [
+      "E-commerce conversion rate",
+      "Email open/click rates",
+      "Promotional lift",
+      "Retail sales"
+    ],
+    "channels": [
+      "EMAIL",
+      "RETAIL_MEDIA",
+      "SOCIAL"
+    ]
+  }
+]

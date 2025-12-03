@@ -1,0 +1,244 @@
+[
+  {
+    "level_id": 1,
+    "level_code": "C-LEVEL",
+    "level_name": "C-Level Executive",
+    "description": "Top executive leadership responsible for company-wide strategy and direction",
+    "seniority": "Executive",
+    "typical_titles": [
+      "Chief Marketing Officer (CMO)",
+      "Chief Executive Officer (CEO)",
+      "Chief Financial Officer (CFO)",
+      "Chief Operating Officer (COO)"
+    ],
+    "typical_experience_years": "15+",
+    "reports_to": "Board of Directors / CEO",
+    "direct_reports": "VPs, Senior Directors",
+    "key_responsibilities": [
+      "Company-wide strategic direction",
+      "P&L ownership",
+      "Board communication",
+      "Organizational leadership",
+      "Stakeholder management"
+    ],
+    "signing_authority_range": {
+      "min_eur": 1000000,
+      "max_eur": 10000000,
+      "description": "Typically €1M - €10M+ for major initiatives"
+    },
+    "skills_required": [
+      "Strategic thinking",
+      "Executive presence",
+      "Financial acumen",
+      "Change management",
+      "Stakeholder management"
+    ]
+  },
+  {
+    "level_id": 2,
+    "level_code": "VP",
+    "level_name": "Vice President",
+    "description": "Senior leadership responsible for functional area strategy and execution",
+    "seniority": "Senior",
+    "typical_titles": [
+      "VP Brand Marketing",
+      "VP Performance Marketing",
+      "VP Digital Marketing",
+      "VP Trade Marketing"
+    ],
+    "typical_experience_years": "12-20",
+    "reports_to": "C-Level Executive",
+    "direct_reports": "Senior Directors, Directors",
+    "key_responsibilities": [
+      "Functional strategy development",
+      "Budget ownership (€2M-€5M)",
+      "Team leadership",
+      "Cross-functional alignment",
+      "Performance accountability"
+    ],
+    "signing_authority_range": {
+      "min_eur": 500000,
+      "max_eur": 2000000,
+      "description": "Typically €500K - €2M for functional initiatives"
+    },
+    "skills_required": [
+      "Strategic planning",
+      "Team leadership",
+      "Budget management",
+      "Stakeholder influence",
+      "Domain expertise"
+    ]
+  },
+  {
+    "level_id": 3,
+    "level_code": "SR_DIR",
+    "level_name": "Senior Director",
+    "description": "Senior management responsible for specific domain or sub-function",
+    "seniority": "Senior",
+    "typical_titles": [
+      "Senior Director Brand Strategy",
+      "Senior Director Creative",
+      "Senior Director Paid Media",
+      "Senior Director Social Media"
+    ],
+    "typical_experience_years": "10-15",
+    "reports_to": "Vice President",
+    "direct_reports": "Directors, Senior Managers",
+    "key_responsibilities": [
+      "Domain strategy and execution",
+      "Team management",
+      "Budget management (€500K-€2M)",
+      "Vendor relationships",
+      "Process optimization"
+    ],
+    "signing_authority_range": {
+      "min_eur": 250000,
+      "max_eur": 1000000,
+      "description": "Typically €250K - €1M for domain initiatives"
+    },
+    "skills_required": [
+      "Domain expertise",
+      "People management",
+      "Project management",
+      "Vendor management",
+      "Analytics"
+    ]
+  },
+  {
+    "level_id": 4,
+    "level_code": "DIR",
+    "level_name": "Director",
+    "description": "Management responsible for specific area or specialty within function",
+    "seniority": "Senior",
+    "typical_titles": [
+      "Director Product Marketing",
+      "Director Influencer Marketing",
+      "Director Search Marketing",
+      "Director Display & Programmatic"
+    ],
+    "typical_experience_years": "8-12",
+    "reports_to": "Senior Director / VP",
+    "direct_reports": "Senior Managers, Managers",
+    "key_responsibilities": [
+      "Specialty area management",
+      "Campaign execution",
+      "Budget oversight (€250K-€1M)",
+      "Performance optimization",
+      "Team coordination"
+    ],
+    "signing_authority_range": {
+      "min_eur": 100000,
+      "max_eur": 600000,
+      "description": "Typically €100K - €600K for specialty initiatives"
+    },
+    "skills_required": [
+      "Specialty expertise",
+      "Campaign management",
+      "Team coordination",
+      "Data analysis",
+      "Vendor negotiation"
+    ]
+  },
+  {
+    "level_id": 5,
+    "level_code": "SR_MGR",
+    "level_name": "Senior Manager",
+    "description": "Experienced individual contributor or small team lead executing initiatives",
+    "seniority": "Mid-level",
+    "typical_titles": [
+      "Senior Campaign Manager",
+      "Senior Media Manager",
+      "Senior Analytics Manager"
+    ],
+    "typical_experience_years": "5-8",
+    "reports_to": "Director / Senior Director",
+    "direct_reports": "Managers, Specialists (optional)",
+    "key_responsibilities": [
+      "Campaign/project execution",
+      "Performance optimization",
+      "Stakeholder communication",
+      "Best practice implementation",
+      "Mentoring junior team members"
+    ],
+    "signing_authority_range": {
+      "min_eur": 50000,
+      "max_eur": 200000,
+      "description": "Typically €50K - €200K for campaign budgets"
+    },
+    "skills_required": [
+      "Campaign execution",
+      "Performance optimization",
+      "Project management",
+      "Communication",
+      "Analytics"
+    ]
+  },
+  {
+    "level_id": 6,
+    "level_code": "MGR",
+    "level_name": "Manager",
+    "description": "Individual contributor executing campaigns and projects",
+    "seniority": "Mid-level",
+    "typical_titles": [
+      "Campaign Manager",
+      "Media Manager",
+      "Marketing Manager"
+    ],
+    "typical_experience_years": "3-5",
+    "reports_to": "Senior Manager / Director",
+    "direct_reports": "None or Specialists",
+    "key_responsibilities": [
+      "Campaign execution",
+      "Performance monitoring",
+      "Reporting",
+      "Vendor coordination",
+      "Process adherence"
+    ],
+    "signing_authority_range": {
+      "min_eur": 10000,
+      "max_eur": 100000,
+      "description": "Typically €10K - €100K for tactical budgets"
+    },
+    "skills_required": [
+      "Campaign management",
+      "Data analysis",
+      "Communication",
+      "Tools proficiency",
+      "Time management"
+    ]
+  },
+  {
+    "level_id": 7,
+    "level_code": "SPEC",
+    "level_name": "Specialist",
+    "description": "Individual contributor with specific expertise or focus area",
+    "seniority": "Entry to Mid-level",
+    "typical_titles": [
+      "Marketing Specialist",
+      "Media Specialist",
+      "Content Specialist"
+    ],
+    "typical_experience_years": "1-3",
+    "reports_to": "Manager / Senior Manager",
+    "direct_reports": "None",
+    "key_responsibilities": [
+      "Tactical execution",
+      "Reporting and analysis",
+      "Content creation",
+      "Administrative tasks",
+      "Learning and development"
+    ],
+    "signing_authority_range": {
+      "min_eur": 0,
+      "max_eur": 10000,
+      "description": "Typically €0 - €10K, requires approval"
+    },
+    "skills_required": [
+      "Domain knowledge",
+      "Tools proficiency",
+      "Attention to detail",
+      "Communication",
+      "Adaptability"
+    ]
+  }
+]

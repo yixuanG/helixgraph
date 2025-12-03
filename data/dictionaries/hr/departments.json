@@ -1,0 +1,131 @@
+[
+  {
+    "department_id": "MKT",
+    "department_code": "MKT",
+    "department_name": "Marketing",
+    "full_name": "Marketing Department",
+    "description": "Responsible for brand strategy, customer acquisition, and revenue growth through marketing initiatives",
+    "parent_department": null,
+    "head_role": "Chief Marketing Officer (CMO)",
+    "cost_center_prefix": "MKT",
+    "functions": [
+      "Brand Marketing",
+      "Performance Marketing",
+      "Digital Marketing",
+      "Trade Marketing",
+      "Marketing Analytics"
+    ],
+    "key_responsibilities": [
+      "Brand development and positioning",
+      "Customer acquisition and retention",
+      "Campaign planning and execution",
+      "Marketing budget management",
+      "Market research and insights",
+      "Partner and vendor management"
+    ],
+    "typical_roles": [
+      "Chief Marketing Officer (CMO)",
+      "VP Brand Marketing",
+      "VP Performance Marketing",
+      "VP Digital Marketing",
+      "VP Trade Marketing",
+      "Senior Director",
+      "Director",
+      "Senior Campaign Manager",
+      "Campaign Manager",
+      "Marketing Analyst"
+    ]
+  },
+  {
+    "department_id": "MKT-BRD",
+    "department_code": "Brand Marketing",
+    "department_name": "Brand Marketing",
+    "full_name": "Brand Marketing",
+    "description": "Builds and maintains brand equity through strategic brand campaigns and creative initiatives",
+    "parent_department": "Marketing",
+    "head_role": "VP Brand Marketing",
+    "cost_center_prefix": "MKT-1",
+    "functions": [
+      "Brand Strategy",
+      "Creative Services",
+      "Product Marketing",
+      "Brand Campaigns"
+    ],
+    "key_responsibilities": [
+      "Brand strategy and positioning",
+      "Creative development",
+      "Brand awareness campaigns",
+      "Product launches",
+      "Brand guidelines management"
+    ]
+  },
+  {
+    "department_id": "MKT-PRF",
+    "department_code": "Performance Marketing",
+    "department_name": "Performance Marketing",
+    "full_name": "Performance Marketing",
+    "description": "Drives measurable business outcomes through data-driven paid media and conversion optimization",
+    "parent_department": "Marketing",
+    "head_role": "VP Performance Marketing",
+    "cost_center_prefix": "MKT-2",
+    "functions": [
+      "Paid Media",
+      "Search Marketing",
+      "Display & Programmatic",
+      "Marketing Analytics"
+    ],
+    "key_responsibilities": [
+      "Performance campaign management",
+      "Media buying and optimization",
+      "Conversion rate optimization",
+      "Marketing attribution",
+      "ROI analysis"
+    ]
+  },
+  {
+    "department_id": "MKT-DIG",
+    "department_code": "Digital Marketing",
+    "department_name": "Digital Marketing",
+    "full_name": "Digital Marketing",
+    "description": "Manages digital brand presence, social media, and online customer engagement",
+    "parent_department": "Marketing",
+    "head_role": "VP Digital Marketing",
+    "cost_center_prefix": "MKT-3",
+    "functions": [
+      "Social Media",
+      "E-Commerce Marketing",
+      "Content Marketing",
+      "Influencer Marketing"
+    ],
+    "key_responsibilities": [
+      "Social media strategy and execution",
+      "Digital content creation",
+      "Community management",
+      "Influencer partnerships",
+      "E-commerce optimization"
+    ]
+  },
+  {
+    "department_id": "MKT-TRD",
+    "department_code": "Trade Marketing",
+    "department_name": "Trade Marketing",
+    "full_name": "Trade Marketing",
+    "description": "Manages retail partnerships, trade promotions, and channel marketing",
+    "parent_department": "Marketing",
+    "head_role": "VP Trade Marketing",
+    "cost_center_prefix": "MKT-4",
+    "functions": [
+      "Retail Marketing",
+      "Channel Marketing",
+      "Trade Promotions",
+      "Partner Management"
+    ],
+    "key_responsibilities": [
+      "Retail partner relationships",
+      "Trade promotion planning",
+      "Point-of-sale marketing",
+      "Channel strategy",
+      "Distribution support"
+    ]
+  }
+]

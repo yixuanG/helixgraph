@@ -1,0 +1,27 @@
+employee_id,channel,media_platform,expertise_level,years_experience,certifications
+EMP-10015,SEM,Google,Expert,8,Google Ads Certified
+EMP-10015,SEM,Microsoft Ads,Advanced,5,Microsoft Advertising Certified
+EMP-10016,DISPLAY,Criteo,Expert,6,Criteo Platform Expert
+EMP-10016,DISPLAY,DV360,Advanced,4,Google Marketing Platform
+EMP-10016,DISPLAY,Google Display Network,Advanced,5,Google Ads Display Certified
+EMP-10007,SEM,Google,Expert,7,Google Ads Certified
+EMP-10007,DISPLAY,YouTube,Advanced,6,YouTube Certified
+EMP-10009,SOCIAL,Instagram,Expert,10,Meta Blueprint Certified
+EMP-10009,SOCIAL,Facebook,Expert,10,Meta Blueprint Certified
+EMP-10009,SOCIAL,Meta,Expert,10,Meta Blueprint Certified
+EMP-10009,SOCIAL,TikTok,Advanced,3,TikTok Marketing Partner
+EMP-10010,EMAIL,Salesforce,Expert,8,Salesforce Marketing Cloud
+EMP-10010,RETAIL_MEDIA,Amazon Ads,Advanced,5,Amazon Advertising Certified
+EMP-10014,SOCIAL,Instagram,Expert,9,Meta Blueprint Certified
+EMP-10014,SOCIAL,TikTok,Expert,6,TikTok Marketing Partner
+EMP-10014,SOCIAL,YouTube,Advanced,5,
+EMP-10001,OOH,JCDecaux,Advanced,12,
+EMP-10001,OOH,Stroeer,Advanced,12,
+EMP-10001,TV,RTL,Expert,15,
+EMP-10001,TV,ProSieben,Expert,15,
+EMP-10006,OOH,JCDecaux,Expert,10,
+EMP-10006,DOOH,Digital Billboards,Advanced,8,
+EMP-10017,SOCIAL,Instagram,Advanced,7,Meta Blueprint Certified
+EMP-10017,DISPLAY,YouTube,Advanced,6,
+EMP-10018,SOCIAL,Facebook,Advanced,8,Meta Blueprint Certified
+EMP-10018,OOH,Stroeer,Intermediate,5,

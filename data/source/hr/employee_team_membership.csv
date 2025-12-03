@@ -1,0 +1,31 @@
+employee_id,team,team_full_name,role_in_team,start_date,is_team_lead,status
+EMP-10000,Marketing Leadership,Marketing Leadership,Chief Marketing Officer,2021-07-22,true,active
+EMP-10001,Brand Marketing,Brand Marketing,VP Brand Marketing,2008-06-28,true,active
+EMP-10001,Brand Offline,Brand Offline,VP Oversight,2008-06-28,false,active
+EMP-10002,Performance Marketing,Performance Marketing,VP Performance Marketing,2008-07-23,true,active
+EMP-10002,Digital Performance,Digital Performance,VP Oversight,2008-07-23,false,active
+EMP-10003,Digital Marketing,Digital Marketing,VP Digital Marketing,2009-03-05,true,active
+EMP-10003,Digital Brand,Digital Brand,VP Oversight,2009-03-05,false,active
+EMP-10004,Trade Marketing,Trade Marketing,VP Trade Marketing,2013-11-19,true,active
+EMP-10004,Retail Marketing,Retail Marketing,VP Oversight,2013-11-19,false,active
+EMP-10005,Brand Marketing,Brand Marketing,Senior Director,2010-04-05,false,active
+EMP-10006,Brand Marketing,Brand Marketing,Senior Director Creative,2015-12-01,false,active
+EMP-10006,Brand Offline,Brand Offline,Creative Lead,2015-12-01,true,active
+EMP-10007,Performance Marketing,Performance Marketing,Senior Director Paid Media,2018-07-20,false,active
+EMP-10007,Digital Performance,Digital Performance,Team Lead,2018-07-20,true,active
+EMP-10008,Performance Marketing,Performance Marketing,Senior Director Analytics,2013-03-18,false,active
+EMP-10009,Digital Marketing,Digital Marketing,Senior Director Social,2020-01-15,false,active
+EMP-10009,Digital Brand,Digital Brand,Social Media Lead,2020-01-15,true,active
+EMP-10010,Digital Marketing,Digital Marketing,Senior Director E-Commerce,2012-10-08,false,active
+EMP-10010,Retail Marketing,Retail Marketing,E-Commerce Lead,2012-10-08,true,active
+EMP-10011,Trade Marketing,Trade Marketing,Senior Director Retail,2009-04-07,false,active
+EMP-10011,Retail Marketing,Retail Marketing,Team Lead,2009-04-07,true,active
+EMP-10012,Brand Marketing,Brand Marketing,Director Product Marketing,2008-10-12,false,active
+EMP-10013,Brand Marketing,Brand Marketing,Director Product Marketing,2010-10-30,false,active
+EMP-10014,Digital Marketing,Digital Marketing,Director Influencer Marketing,2016-11-06,false,active
+EMP-10015,Performance Marketing,Performance Marketing,Director Search Marketing,2019-09-07,false,active
+EMP-10016,Performance Marketing,Performance Marketing,Director Display & Programmatic,2019-03-10,false,active
+EMP-10017,Brand Marketing,Brand Marketing,Senior Campaign Manager,2015-04-28,false,active
+EMP-10017,Brand Offline,Brand Offline,Campaign Manager,2015-04-28,false,active
+EMP-10018,Brand Marketing,Brand Marketing,Senior Campaign Manager,2006-01-14,false,active
+EMP-10018,Brand Offline,Brand Offline,Campaign Manager,2006-01-14,false,active

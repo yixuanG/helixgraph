@@ -1,0 +1,172 @@
+[
+  {
+    "role_id": "CAMP_LEAD",
+    "role_code": "campaign_lead",
+    "role_name": "Campaign Lead",
+    "context": "Campaign",
+    "description": "Primary person responsible for campaign strategy, execution, and performance",
+    "responsibilities": [
+      "Campaign strategy development",
+      "Budget management",
+      "Stakeholder coordination",
+      "Performance monitoring and optimization",
+      "Reporting to leadership"
+    ],
+    "typical_allocation_percentage": "25-40%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  },
+  {
+    "role_id": "CAMP_SUPPORT",
+    "role_code": "campaign_support",
+    "role_name": "Campaign Support",
+    "context": "Campaign",
+    "description": "Supporting team member assisting with campaign execution and specific tasks",
+    "responsibilities": [
+      "Execute specific campaign tasks",
+      "Provide expertise in specialty area",
+      "Support lead with analysis and reporting",
+      "Coordinate with vendors",
+      "Monitor specific channels or metrics"
+    ],
+    "typical_allocation_percentage": "10-25%",
+    "decision_authority": "Medium",
+    "accountability_level": "Shared"
+  },
+  {
+    "role_id": "TEAM_LEAD",
+    "role_code": "team_lead",
+    "role_name": "Team Lead",
+    "context": "Team",
+    "description": "Leader of a functional team responsible for team strategy and management",
+    "responsibilities": [
+      "Team strategy and planning",
+      "Resource allocation",
+      "Performance management",
+      "Hiring and development",
+      "Cross-team collaboration"
+    ],
+    "typical_allocation_percentage": "100%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  },
+  {
+    "role_id": "TEAM_MEMBER",
+    "role_code": "team_member",
+    "role_name": "Team Member",
+    "context": "Team",
+    "description": "Contributing member of a functional team",
+    "responsibilities": [
+      "Execute team initiatives",
+      "Collaborate with team members",
+      "Contribute to team goals",
+      "Participate in team meetings",
+      "Support team processes"
+    ],
+    "typical_allocation_percentage": "100%",
+    "decision_authority": "Low to Medium",
+    "accountability_level": "Individual"
+  },
+  {
+    "role_id": "CHANNEL_OWNER",
+    "role_code": "channel_owner",
+    "role_name": "Channel Owner",
+    "context": "Channel/Platform",
+    "description": "Primary owner of a specific marketing channel or platform",
+    "responsibilities": [
+      "Channel strategy",
+      "Platform optimization",
+      "Vendor relationship management",
+      "Best practice development",
+      "Team training and enablement"
+    ],
+    "typical_allocation_percentage": "30-50%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  },
+  {
+    "role_id": "CHANNEL_SPECIALIST",
+    "role_code": "channel_specialist",
+    "role_name": "Channel Specialist",
+    "context": "Channel/Platform",
+    "description": "Specialist with expertise in specific channel or platform",
+    "responsibilities": [
+      "Execute channel campaigns",
+      "Platform management",
+      "Performance optimization",
+      "Reporting and analysis",
+      "Stay current with platform updates"
+    ],
+    "typical_allocation_percentage": "20-40%",
+    "decision_authority": "Medium",
+    "accountability_level": "Individual"
+  },
+  {
+    "role_id": "PRODUCT_OWNER",
+    "role_code": "product_owner",
+    "role_name": "Product Owner",
+    "context": "Product/Portfolio",
+    "description": "Primary owner responsible for product marketing strategy",
+    "responsibilities": [
+      "Product marketing strategy",
+      "Go-to-market planning",
+      "Product positioning",
+      "Cross-functional alignment",
+      "Portfolio management"
+    ],
+    "typical_allocation_percentage": "40-60%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  },
+  {
+    "role_id": "PRODUCT_SPECIALIST",
+    "role_code": "product_specialist",
+    "role_name": "Product Specialist",
+    "context": "Product/Portfolio",
+    "description": "Specialist with deep product knowledge supporting marketing initiatives",
+    "responsibilities": [
+      "Product expertise and training",
+      "Campaign product support",
+      "Content creation",
+      "Sales enablement",
+      "Product feedback"
+    ],
+    "typical_allocation_percentage": "20-40%",
+    "decision_authority": "Medium",
+    "accountability_level": "Individual"
+  },
+  {
+    "role_id": "CREATIVE_LEAD",
+    "role_code": "creative_lead",
+    "role_name": "Creative Lead",
+    "context": "Team/Campaign",
+    "description": "Leader responsible for creative strategy and execution",
+    "responsibilities": [
+      "Creative strategy",
+      "Creative team management",
+      "Agency management",
+      "Creative quality assurance",
+      "Brand consistency"
+    ],
+    "typical_allocation_percentage": "30-50%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  },
+  {
+    "role_id": "ANALYTICS_LEAD",
+    "role_code": "analytics_lead",
+    "role_name": "Analytics Lead",
+    "context": "Team/Function",
+    "description": "Leader responsible for marketing analytics and insights",
+    "responsibilities": [
+      "Analytics strategy",
+      "Measurement framework",
+      "Insights and recommendations",
+      "Reporting infrastructure",
+      "Data governance"
+    ],
+    "typical_allocation_percentage": "30-50%",
+    "decision_authority": "High",
+    "accountability_level": "Full"
+  }
+]
